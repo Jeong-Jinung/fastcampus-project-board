@@ -12,7 +12,7 @@ spring:
 #    url: jdbc:h2:mem:testdb
 #    username: sa
 #    driver-class-name: org.h2.Driver
-      url: jdbc:mysql://localhost:3306/board
+    url: jdbc:mysql://localhost:3306/board
     username: jinung
     password: jinung
     driver-class-name: com.mysql.cj.jdbc.Driver
